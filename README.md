@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dsorcererdev
-- 👀 I’m interested in Linux, Music, Fantasy/Sci-fi, Manga, TCG Games
+- 👀 I’m interested in Linux, Music, Fantasy/Sci-fi, Manga, TCG/RPG Games
 - 🌱 I’m currently learning Arduino, React, PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dsorcererdev@yahoo.com
